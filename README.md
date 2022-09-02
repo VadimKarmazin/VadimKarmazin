@@ -1,3 +1,5 @@
+<h1>Hi there, I'm <a href="https://github.com/VadimKarmazin" color="purple">Vadim</a></h1>
+
 # Hi there, I'm [Vadim](https://github.com/VadimKarmazin) #
 ![](https://komarev.com/ghpvc/?username=VadimKarmazin&label=PROFILE+VIEWS+(просмотров+профиля))
 
