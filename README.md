@@ -15,5 +15,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimKarmazin&theme=midnight-purple)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimKarmazin&theme=midnight-purple)
 ![VadimKarmazin STATS](https://github-readme-stats.vercel.app/api?username=VadimKarmazin&show_icons=true&theme=midnight-purple)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/piyushsuthar/github-readme-quotes)
 
