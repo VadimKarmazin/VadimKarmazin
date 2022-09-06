@@ -8,7 +8,7 @@
 **my resume**
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&lines=Cyber+security+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f80000&lines=Cyber+security+student)](https://git.io/typing-svg)
 
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimKarmazin&theme=midnight-purple)
