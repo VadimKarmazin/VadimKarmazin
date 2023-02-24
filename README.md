@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=VadimKarmazin&label=PROFILE+VIEWS+(просмотров+профиля))
 
 
-![](https://i.pinimg.com/originals/d1/70/c4/d170c4a28d1552c8382fadb824d6d3e1.gif)
+<img src="https://user-images.githubusercontent.com/99864658/221315119-eb20607b-5df5-423e-a928-6336daeef2ee.png">
+<img src="https://user-images.githubusercontent.com/99864658/221315956-7843a91d-5f79-4710-94ff-d9beecd88357.png">
 ---
 
 
