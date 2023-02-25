@@ -24,7 +24,7 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px">
+<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px" width="250px">
 </a>
 
 
