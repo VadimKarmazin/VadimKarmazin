@@ -27,12 +27,14 @@
 <img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/>
 </a>
 
-<p>
+
 <a href="http://github-readme-streak-stats.herokuapp.com">
 <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=VadimKarmazin&count_private=true&theme=midnight-purple&hide_border=true&bg_color=#FFFAFA&title_color=#FFFAFA&icon_color=#FFFAFA">
 </a>
+
+<div align ="center">
 <img src="https://media.tenor.com/VKR6LazrCHIAAAAC/discord-banner.gif"> 
-</p>
+</div>
 
 </br>
 
