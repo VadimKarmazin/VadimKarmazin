@@ -20,11 +20,11 @@
 #### Hi There, my name is <b><i>Vadim Karmazin</i></b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=VadimKarmazin&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Stats" height="192px"/>
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=VadimKarmazin&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Stats" height="192px">
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/>
+<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px">
 </a>
 
 
