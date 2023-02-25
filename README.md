@@ -69,8 +69,12 @@
 
 #### Github Activity Graph 📊
 
-[![VadimKarmazin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VadimKarmazin&theme=midnight-purple&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![VadimKarmazin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VadimKarmazin&bg_color=0A0C10&line=55185c&area=true&hide_border=false&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=55185c&width=435&lines=Thank+You!;See+You+Again!;Bye+Bye!;Are+u+still+reading?)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://media.tenor.com/JgP7ehMv-TEAAAAC/beautiful-purple-nature.gif">
+</div>
