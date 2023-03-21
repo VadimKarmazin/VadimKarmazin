@@ -6,9 +6,7 @@
 </br>
 
 <h3 align="center">
-<img src="https://media.tenor.com/cX26OGHFnkwAAAAj/amaterasu.gif" width="35">
   Welcome to my profile!
-<img src="https://media.tenor.com/cX26OGHFnkwAAAAj/amaterasu.gif" width="35">
   
 </h3>
 
