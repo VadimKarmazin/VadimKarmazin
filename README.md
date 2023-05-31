@@ -19,7 +19,7 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=VadimKarmazin&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Stats" height="192px">
+<img alt="My Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VadimKarmazin&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Stats" height="192px">
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
