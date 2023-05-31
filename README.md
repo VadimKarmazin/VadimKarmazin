@@ -23,13 +23,13 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px">
+<img alt="VadimKarmazin Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VadimKarmazin&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px">
 </a>
 </div>
   
 <div align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com">
-<img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=VadimKarmazin&count_private=true&theme=midnight-purple&hide_border=true&bg_color=#FFFAFA&title_color=#FFFAFA&icon_color=#FFFAFA">
+<img alt="streaks" src="http://github-readme-streak-stats-sigma-five.herokuapp.com?user=VadimKarmazin&count_private=true&theme=midnight-purple&hide_border=true&bg_color=#FFFAFA&title_color=#FFFAFA&icon_color=#FFFAFA">
 </a>
 </div>
 
@@ -74,7 +74,7 @@
 
 #### Github Activity Graph 📊
 
-[![VadimKarmazin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VadimKarmazin&bg_color=0A0C10&line=55185c&area=true&hide_border=false&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![VadimKarmazin's github activity graph](https://github-readme-activity-graph-sigma-five.cyclic.app/graph?username=VadimKarmazin&bg_color=0A0C10&line=55185c&area=true&hide_border=false&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
